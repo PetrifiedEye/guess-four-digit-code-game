@@ -1,0 +1,5 @@
+export enum GameActions {
+  SET_GAME_SECRET = 'SET_GAME_SECRET',
+
+  UPDATE_ANSWER = 'UPDATE_ANSWER',
+}
